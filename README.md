@@ -60,23 +60,6 @@ Para poner en marcha todo el ecosistema, consulta las guías individuales:
 
 ---
 
-## 📚 Documentación Externa y Netlify
-
-Si deseas centralizar la documentación del proyecto utilizando **Netlify**, te recomendamos las siguientes estrategias:
-
-### 1. Documentación General (Ecosistema)
-Para una documentación que abarque tanto el backend como la IA, lo ideal es crear una carpeta `/docs` en la raíz del repositorio. Puedes usar herramientas como:
-- **Docusaurus** o **MkDocs**: Generan sitios estáticos hermosos a partir de archivos Markdown.
-- **Despliegue**: Configura Netlify para apuntar a la carpeta raíz y ejecutar el comando de build de tu herramienta elegida.
-
-### 2. Documentación Técnica Específica
-- **API Backend**: Puedes generar un sitio estático desde el JSON de OpenAPI y desplegarlo en una sub-ruta o sub-dominio.
-- **IA/Algoritmos**: Documenta los modelos y procesos matemáticos en archivos `.md` dentro de la carpeta `/docs` o dentro de cada módulo.
-
-> **Tip**: Netlify permite configurar "Monorepo support", lo que facilita desplegar diferentes partes de la documentación desde un mismo repositorio.
-
----
-
 ## 👤 Autor
 **Anthony Parra**
 
