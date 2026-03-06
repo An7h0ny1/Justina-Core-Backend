@@ -13,7 +13,7 @@
 Puedes acceder a la documentación completa y detallada del ecosistema Justina en el siguiente enlace:
 
 > [!TIP]
-> **[Ver Documentación en Netlify](https://TU-LINK-AQUI.netlify.app)**
+> **[Ver Documentación en Mintlify](https://an7h0ny1-justina-core-backend.mintlify.app/introduction)**
 
 ---
 
